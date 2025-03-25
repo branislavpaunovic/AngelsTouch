@@ -1,0 +1,6 @@
+[30-Aug-2024 00:55:11 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/angelsto/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 167
+[30-Aug-2024 00:55:11 UTC] PHP Warning:  Attempt to read property "ID" on null in /home/angelsto/public_html/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php on line 167
+[29-Oct-2024 16:36:16 UTC] PHP Warning:  Undefined array key "code" in /home/angelsto/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/lib/zip-ai/classes/sidebar-configurations.php on line 239
+[29-Oct-2024 17:03:44 UTC] PHP Warning:  Undefined array key "code" in /home/angelsto/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/lib/zip-ai/classes/sidebar-configurations.php on line 239
+[29-Oct-2024 17:03:52 UTC] PHP Warning:  Undefined array key "code" in /home/angelsto/public_html/wp-content/plugins/ultimate-addons-for-gutenberg/lib/zip-ai/classes/sidebar-configurations.php on line 239
+[16-Mar-2025 19:47:43 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/angelsto/public_html/wp-content/themes/astra/header.php on line 12

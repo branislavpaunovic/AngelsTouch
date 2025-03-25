@@ -1,0 +1,20 @@
+[25-Dec-2024 14:34:08 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/angelsto/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/angelsto/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Jan-2025 19:18:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/angelsto/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/angelsto/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Jan-2025 22:31:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/angelsto/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/angelsto/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Mar-2025 23:09:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/angelsto/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/angelsto/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[18-Mar-2025 05:17:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home/angelsto/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/angelsto/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

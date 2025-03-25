@@ -1,0 +1,20 @@
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  Undefined array key 1 in /home/angelsto/public_html/wp-includes/blocks.php on line 1399
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/angelsto/public_html/wp-includes/blocks.php on line 1398
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/angelsto/public_html/wp-includes/blocks.php on line 1398
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/angelsto/public_html/wp-includes/blocks.php on line 1402
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  Undefined array key "blockName" in /home/angelsto/public_html/wp-includes/blocks.php on line 1407
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  Undefined array key 2 in /home/angelsto/public_html/wp-includes/blocks.php on line 1399
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/angelsto/public_html/wp-includes/blocks.php on line 1398
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/angelsto/public_html/wp-includes/blocks.php on line 1398
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/angelsto/public_html/wp-includes/blocks.php on line 1402
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  Undefined array key "blockName" in /home/angelsto/public_html/wp-includes/blocks.php on line 1407
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  Undefined array key 3 in /home/angelsto/public_html/wp-includes/blocks.php on line 1399
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/angelsto/public_html/wp-includes/blocks.php on line 1398
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/angelsto/public_html/wp-includes/blocks.php on line 1398
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/angelsto/public_html/wp-includes/blocks.php on line 1402
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  Undefined array key "blockName" in /home/angelsto/public_html/wp-includes/blocks.php on line 1407
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  Undefined array key 4 in /home/angelsto/public_html/wp-includes/blocks.php on line 1399
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/angelsto/public_html/wp-includes/blocks.php on line 1398
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/angelsto/public_html/wp-includes/blocks.php on line 1398
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/angelsto/public_html/wp-includes/blocks.php on line 1402
+[27-Oct-2024 01:11:10 UTC] PHP Warning:  Undefined array key "blockName" in /home/angelsto/public_html/wp-includes/blocks.php on line 1407
